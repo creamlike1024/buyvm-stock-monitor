@@ -1,4 +1,4 @@
-# buyvm-stock-tg-notify
+# buyvm-stock-monitor
 一个用于监控 buyvm 库存的脚本
 A script to monitor buyvm(frantech) stock
 
